@@ -7,7 +7,7 @@ function App() {
       <div className="my-container vw-100 d-flex justify-content-center">
         <div className="my-bg-primary my-auto p-4 rounded-3">
           <div className="text-center">
-            <img className="rounded-circle pb-3" style={{ width: '100px' }} src="/images/avatar-jessica.jpeg" alt="logo" />
+            <img className="rounded-circle pb-3" style={{ width: '100px' }} src="./images/avatar-jessica.jpeg" alt="logo" />
             <h2 className="my-text-primary myFontFamily">Jessica Randall</h2>
             <p className="my-text-secondary myFontFamily">London, United Kingdom</p>
             <p className="text-secondary myFontFamily py-2">"Front-end developer and avid reader."</p>
